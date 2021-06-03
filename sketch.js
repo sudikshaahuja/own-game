@@ -24,7 +24,7 @@ animal_running = loadAnimation("Images/a1.png","Images/a2.png","Images/a3.png",
 
 fruitImage = loadImage("Images/goodapple.png");
 
-pFruitImage = loadImage("Images/Pfruit.png");
+pFruitImage = loadImage("Images/pfruit.png");
 
 weaponImage = loadImage("Images/weapon.png");
 
